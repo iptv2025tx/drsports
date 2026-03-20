@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import html
 import sys
 
-BASE_URL = "https://roxiestreams.info/"
+BASE_URL = "https://roxiestreams.su/"
 CATEGORIES = ["", "soccer", "mlb", "nba", "nfl", "nhl", "fighting", "motorsports", "motogp",
               "ufc", "ppv", "wwe", "f1", "f1-streams", "nascar"]
 
